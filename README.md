@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# <img alt="JavaScript" height="20px" src="public/favicon.png" /> upLexis - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![homepage](https://media.discordapp.net/attachments/552518745910673408/897161031925788753/unknown.png)
+&nbsp;
 
-## Available Scripts
+## 📚 Sobre o projeto
 
-In the project directory, you can run:
+- Esse projeto foi desenvolvido para um teste no processo seletivo da empresa upLexis.
 
-### `yarn start`
+&nbsp;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Informações do sistema
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Sistema de filtros atraves de categorias;
+- Sistema de Ordem crescente e decrescente (Preço e Data de Lançamento);
+- Design responsivo;
 
-### `yarn test`
+&nbsp;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias utilizadas
 
-### `yarn build`
+- [React](https://pt-br.reactjs.org/E)
+- [Redux](https://redux.js.org/)
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://polished.js.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+&nbsp;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Instruções de Execução
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/ramonrpa/uplexis-upminer
+```
 
-### `yarn eject`
+```
+# Acesse a pasta da aplicação
+$ cd uplexis-upminer
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Instale as dependências
+$ `yarn install` ou `npm install`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Inicie a aplicação
+$ `yarn start` ou `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
