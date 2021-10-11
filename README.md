@@ -45,3 +45,9 @@ $ `yarn install` ou `npm install`
 $ `yarn start` ou `npm start`
 
 ```
+
+&nbsp;
+
+## 🔗 Link do projeto online
+
+[Clique aqui](https://uplexis-upminer.vercel.app)
